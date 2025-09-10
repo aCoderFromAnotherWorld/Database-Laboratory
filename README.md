@@ -66,7 +66,7 @@ The project uses **5 interlinked tables**:
 
 
 ## 📊 Project Proposal Documentation
-![Project Proposal](docs/Project%20Proposal%20Final.pdf)
+<a href="docs/Project%20Proposal%20Final.pdf" target="_blank">📄 View Project Proposal (PDF)</a>
 ---
 
 ## ⚙️ Tech Stack
