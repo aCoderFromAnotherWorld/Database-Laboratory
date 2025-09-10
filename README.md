@@ -64,6 +64,9 @@ The project uses **5 interlinked tables**:
 ## 📊 ER Diagram
 ![ER Diagram](docs/ER_Diagram.png)
 
+
+## 📊 Project Proposal Documentation
+![Project Proposal](docs/Project%20Proposal%20Final.pdf)
 ---
 
 ## ⚙️ Tech Stack
