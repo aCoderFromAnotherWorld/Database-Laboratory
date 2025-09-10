@@ -59,10 +59,10 @@ The project uses **5 interlinked tables**:
 ---
 
 ## 📊 ER Diagram
-![ER Diagram](docs/ER_Diagram_Cafe.png)
+![ER Diagram](docs/ER_Diagram.png)
 
 ## 🗂️ Database Schema Diagram
-![Schema Diagram](docs/Schema_Diagram_Cafe.png)
+![Schema Diagram](docs/Schema_Diagram.png)
 
 ---
 
